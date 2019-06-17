@@ -3,7 +3,7 @@ import argparse
 import math
 from math import fabs
 
-sys.path.append('/Users/jingyuluo/Downloads/root_dir/lib')
+#sys.path.append('/Users/jingyuluo/Downloads/root_dir/lib')
 import ROOT
 from ROOT import TFile, TCanvas, TH1F
 from ROOT import gStyle
